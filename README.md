@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdul Rehman</h1>
 <h3 align="center">🚀 Passionate crypto enthusiast with a deep interest in blockchain technology, DeFi, and Web3 innovation. Constantly exploring the future of decentralized finance, NFTs, and tokenomics.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abd810&label=Profile%20views&color=0e75b6&style=flat" alt="abd810" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abd810" alt="abd810" /></a> </p>
-
 - 🔭 I’m currently working on [Berachain](https://x.com/berachain)
 
 - 👯 I’m looking to collaborate on [Monad](https://x.com/monad_xyz)
@@ -31,4 +27,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abd810&show_icons=true&locale=en" alt="abd810" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abd810&" alt="abd810" /></p>
